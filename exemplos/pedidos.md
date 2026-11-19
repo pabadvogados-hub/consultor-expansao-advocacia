@@ -1,6 +1,6 @@
 # Pedidos que funcionam bem
 
-- "Ben, faça o diagnóstico do meu escritório. Somos 6 pessoas, atuamos em direito de família e imobiliário e os clientes chegam por indicação e Instagram."
+- "Faça o diagnóstico do meu escritório. Somos 6 pessoas, atuamos em direito de família e imobiliário e os clientes chegam por indicação e Instagram."
 - "Monte o planejamento anual do escritório com meta de crescer a carteira. Pergunte o que precisar."
 - "Crie o POP de atendimento do primeiro contato até a assinatura do contrato, com responsável por etapa e checklist."
 - "Desenhe o organograma do escritório e gere o arquivo FreeMind (.mm)."
